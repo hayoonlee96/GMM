@@ -1,7 +1,7 @@
 # GMM
 
 ### Summary
-Gaussian mixture modeling of arm flexion (moment, angle, velocity)
+Gaussian mixture modeling examples and tests
 
 ### Reference
 1. Gaussian mixture model 
