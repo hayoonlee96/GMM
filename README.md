@@ -1,4 +1,4 @@
-# GMM_examples
+# GMM_examples_and_tests
 
 ### Summary
 Gaussian mixture modeling examples and tests
